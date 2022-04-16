@@ -1,5 +1,5 @@
 opencv-python
 opencv-contrib-python
-PIL
+Pillow
 matplotlib
 streamlit
